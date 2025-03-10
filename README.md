@@ -1,4 +1,6 @@
 Sorteo de Amigo Secreto
+
+
 Este proyecto es un sistema web para realizar un sorteo de "amigo secreto". 
 Permite agregar nombres de amigos a una lista, actualizar la visualización de la lista y, posteriormente, 
 realizar un sorteo de forma aleatoria en el que cada persona recibe un "amigo secreto". 
